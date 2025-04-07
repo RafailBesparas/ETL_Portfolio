@@ -28,3 +28,18 @@ Stores processed data into a local **SQLite** database for fast access.
 Exposes the data via a RESTful API:
 ```http
 GET /api/crypto_prices
+
+### 5. 📊 Example API Response
+[
+  {
+    "id": "bitcoin",
+    "symbol": "btc",
+    "name": "Bitcoin",
+    "price": 67234.12,
+    "market_cap": 1320000000000,
+    "volume": 42000000000,
+    "timestamp": "2025-04-07T10:22:00"
+  },
+  ...
+]
+
