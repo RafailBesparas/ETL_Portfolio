@@ -1,10 +1,10 @@
-Is a lightweight, production-ready system that automates the extraction, transformation, and delivery of cryptocurrency market data using the CoinGecko API. It enables seamless integration of up-to-date price data through a RESTful API powered by Flask.
+CryptoBridge_ETL-PoweredDataAccessLaye Is a lightweight, production-ready system that automates the extraction, transformation, and delivery of cryptocurrency market data using the CoinGecko API. It enables seamless integration of up-to-date price data through a RESTful API powered by Flask.
 
 ---
 
 ## 🧠 Project Purpose
 
-In an era where speed and accuracy in financial data matter, **CryptoPulse** bridges the gap between raw crypto market feeds and clean, accessible API endpoints.
+In an era where speed and accuracy in financial data matter, **CryptoBridge_ETL-PoweredDataAccessLaye** bridges the gap between raw crypto market feeds and clean, accessible API endpoints.
 
 Whether you’re building trading bots, market dashboards, or financial research tools — CryptoPulse delivers clean, structured crypto data via a developer-friendly API.
 
